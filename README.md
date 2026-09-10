@@ -91,7 +91,7 @@ I am open to research collaborations and academic projects in **Deep Learning**,
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arifabdali910&show_icons=true&hide_border=true&count_private=true" alt="Arif Kamal's GitHub stats" />
+  <img src=![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifabdali910)" />
 </p>
 
 <p align="center">
