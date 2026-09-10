@@ -91,19 +91,15 @@ I am open to research collaborations and academic projects in **Deep Learning**,
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src=![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifabdali910)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arifabdali910&show_icons=true&hide_border=true" alt="Arif Kamal's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifabdali910&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arifabdali910&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=arifabdali910&hide_border=true" alt="GitHub streak" />
 </p>
-
----
-
-<p align="center">
   <sub>Open to research collaborations · Islamia College Peshawar</sub>
 </p>
