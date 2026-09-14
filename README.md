@@ -1,4 +1,4 @@
-# 👋 I'm Mr, Arif Kamal
+# 👋 I'm Arif Kamal
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arifabdali910&label=Profile%20views&color=0e75b6&style=flat" alt="arifabdali910" />
@@ -17,49 +17,60 @@
   <a href="https://www.facebook.com/arif.kamal.1029770">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
+  <a href="https://www.instagram.com/arifabdali910/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
   <img src="https://img.shields.io/badge/WeChat-Rifster__24-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat: Rifster_24" />
 </p>
 
 ## 🎓 About Me
 
-**MPhil Researcher in Computer Science** | Department of Computer Science | [Islamia College Peshawar](https://www.icp.edu.pk/)
+**Computer Science Researcher | MPhil in Computer Science | Seeking PhD Opportunities**
 
-I am a graduate researcher working at the intersection of **Artificial Intelligence** and **Medical Imaging**. My work focuses on developing deep learning methods for analysing clinical imaging data, with an emphasis on building models that are accurate, reproducible, and useful in real diagnostic settings.
+I am Arif Kamal, an MPhil graduate in Computer Science from [Islamia College Peshawar](https://www.icp.edu.pk/). My research interests include **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Medical Image Analysis**.
 
-🔬 **Research Focus**: Deep Learning · Computer Vision · Digital Image Processing · Medical Image Analysis · Healthcare AI
+My work includes image classification, object detection, segmentation, and multimodal learning using Python, PyTorch, TensorFlow, and Keras. I am interested in applying these methods to healthcare and broader visual understanding tasks.
 
-## 🔬 Current Research
+## 🔬 MPhil Research
 
 **Deep Learning Framework for Gallbladder Disease Detection from Ultrasound Images**
 
-- 🏥 **Medical Image Analysis** — designing deep learning pipelines for clinical ultrasound data
-- 🩻 **Ultrasound Image Processing** — preprocessing, denoising, and enhancement of sonographic images
-- 🎯 **Object Detection** — localisation and detection of disease indicators within ultrasound frames
-- 🧠 **Deep Learning & Computer Vision** — convolutional and detection-based architectures for diagnostic support
-- 🤖 **Healthcare AI** — translating vision models into practical clinical decision-support tools
+- Developed an object detection framework for gallbladder ultrasound images.
+- Used bounding boxes around the whole gallbladder with two classes: **healthy** and **diseased**.
+- Worked with YOLO models for gallbladder localisation and disease detection.
+
+## 🧪 Featured Projects
+
+| Project | Focus | Repository |
+|---|---|---|
+| **Deepfake Detection** | Real versus manipulated facial image classification using Swin Transformer and Celeb-DF-v2. | [View project](https://github.com/arifabdali910/Deepfake-Detection-using-Swin-Transformer-and-Celeb-DF-v2-Dataset) |
+| **Skin Lesion Classification** | Seven-class HAM10000 classification using Swin Transformer Tiny, with evaluation reports and visualisations. | [View project](https://github.com/arifabdali910/Skin-Lesion-Classification-using-Swin-Transformer-and-HAM10000-Dataset) |
+| **Multimodal Parkinson's Research** | A hybrid deep learning project using Self-Attentive BiGRU, with model checkpoints, evaluation outputs, and figures. | [View project](https://github.com/arifabdali910/A-Hybrid-Multimodal-Deep-Learning-Framework-with-Self-Attentive-BiGRU-for-Joint-Parkinson-s-Disease) |
+
+### Additional Project Experience
+
+- **Facial Emotion Recognition — FER-2013:** Deep learning for classification of seven facial expressions.
+- **Weakly Supervised Multimodal Violence Detection — XD-Violence:** Work combining RGB, optical flow, and audio for violence detection.
+- **Cone Detection — FSOCO:** Model development and fine-tuning for Formula Student navigation.
+- **Fire and Smoke Instance Segmentation:** Segmentation in indoor and outdoor environments.
+- **Video Anomaly Detection:** CNN feature extraction combined with LSTM temporal modelling.
 
 ## 📌 Research Interests
 
-| | |
+| Methods | Applications |
 |---|---|
-| Artificial Intelligence | Machine Learning |
-| Deep Learning | Computer Vision |
-| Digital Image Processing | Medical Image Analysis |
-| Object Detection | Healthcare AI |
-
-## 🧪 Featured Research
-
-- **Gallbladder Disease Detection from Ultrasound Images** — deep learning framework for detecting disease indicators in ultrasound imaging
-- **Medical Image Analysis** — deep learning approaches for clinical imaging modalities
-- **Computer Vision & Object Detection** — detection and localisation methods for real-world visual data
-- **Digital Image Processing** — image enhancement, filtering, and feature extraction techniques
-- **AI/ML for Healthcare** — applied machine learning for diagnostic and decision-support applications
+| Deep Learning and Machine Learning | Medical Image Analysis |
+| Computer Vision and Object Detection | Ultrasound Image Analysis |
+| Image Classification and Segmentation | Visual Recognition |
+| Multimodal Learning and Temporal Modelling | Video Understanding |
 
 ## 🤝 Let's Collaborate
 
-I am open to research collaborations and academic projects in **Deep Learning**, **Computer Vision**, **Medical Image Analysis**, **Digital Image Processing**, and **Healthcare AI**.
+I am seeking **PhD opportunities** and welcome research collaborations in **Deep Learning, Computer Vision, Medical Image Analysis, and Multimodal Learning**.
 
-📫 Reach me at: **mscs-241409@icp.edu.pk**
+📫 **Email:** [mscs-241409@icp.edu.pk](mailto:mscs-241409@icp.edu.pk)  
+🎓 **Publications:** [Google Scholar](https://scholar.google.com/citations?user=t2g-KNYAAAAJ&hl=en)  
+💬 **WeChat:** `Rifster_24`
 
 ## 🛠️ Tech Stack
 
