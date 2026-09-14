@@ -17,9 +17,6 @@
   <a href="https://www.facebook.com/arif.kamal.1029770">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.instagram.com/arifabdali910/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
   <img src="https://img.shields.io/badge/WeChat-Rifster__24-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat: Rifster_24" />
 </p>
 
