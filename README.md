@@ -99,14 +99,6 @@ I am seeking **PhD opportunities** and welcome research collaborations in **Deep
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arifabdali910&show_icons=true&hide_border=true&theme=default" alt="Arif Kamal's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifabdali910&layout=compact&hide_border=true&langs_count=8&theme=default" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=arifabdali910&hide_border=true" alt="GitHub streak" />
 </p>
 
