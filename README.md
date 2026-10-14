@@ -1,26 +1,41 @@
 # I'm Mr. Arif Kamal
 
+<h2 align="center">Arif Kamal</h2>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arifabdali910&label=Profile%20views&color=0e75b6&style=flat" alt="arifabdali910" />
-  <a href="https://www.linkedin.com/in/arif-kamal-abdali-859802265/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <strong>Artificial Intelligence Researcher</strong><br />
+  Computer Vision · Multimodal Learning · Medical Image Analysis<br />
+  Deep Learning · Large Language Models · Vision-Language Models
+</p>
+
+<p align="center">
   <a href="https://scholar.google.com/citations?user=t2g-KNYAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar" />
-  </a>
-  <a href="mailto:mscs-241409@icp.edu.pk">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white"
+         alt="Arif Kamal on Google Scholar" />
   </a>
   <a href="https://github.com/arifabdali910">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"
+         alt="Arif Kamal on GitHub" />
   </a>
+  <a href="https://www.linkedin.com/in/arif-kamal-abdali-859802265/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
+         alt="Arif Kamal on LinkedIn" />
+  </a>
+  <a href="mailto:mscs-241409@icp.edu.pk">
+    <img src="https://img.shields.io/badge/Academic%20Email-D14836?style=flat-square&logo=gmail&logoColor=white"
+         alt="Email Arif Kamal" />
+  </a>
+  <img src="https://img.shields.io/badge/WeChat-Rifster__24-07C160?style=flat-square&logo=wechat&logoColor=white"
+       alt="WeChat ID: Rifster_24" />
+</p>
+
+<p align="center">
   <a href="https://www.facebook.com/arif.kamal.1029770">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"
+         alt="Arif Kamal on Facebook" />
   </a>
-  <a href="https://www.instagram.com/arifabdali910/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <img src="https://img.shields.io/badge/WeChat-Rifster__24-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat: Rifster_24" />
+  <img src="https://komarev.com/ghpvc/?username=arifabdali910&label=Profile%20views&color=475569&style=flat-square"
+       alt="GitHub profile views" />
 </p>
 
 ## 🎓 About Me
